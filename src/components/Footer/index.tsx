@@ -11,12 +11,6 @@ const Footer: React.FC = () => {
       copyright="WRITTEN BY NICK"
       links={[
         {
-          key: 'BI PROJECT',
-          title: 'BI PROJECT',
-          href: 'https://pro.ant.design',
-          blankTarget: true,
-        },
-        {
           key: 'github',
           title: <GithubOutlined />,
           href: 'https://github.com/NickyS1mpe',
